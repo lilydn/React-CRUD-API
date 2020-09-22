@@ -1,0 +1,9 @@
+				{/* TODO: add filtering by price and by material <FilterInputs /> */}
+				{/* send to FilterInputs a function as prop, FilterInputs will invoke this function onChange (of some input)  */}
+				{/* ex: handleProductsFilter(price,nameIncludes)  one of them should be always null */}
+				{/* do this like in AvatarList */}
+
+        - make the pruduct object to be passed as props everytime (organize the props)
+
+
+        - https://attacomsian.com/blog/javascript-check-if-image-exists  
