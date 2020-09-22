@@ -30,7 +30,7 @@ class Product extends React.Component {
           <img src={picture} alt=""/>
         </div>
         <div className="content">
-          <a className="header">{name}</a>
+          <a href="#0" className="header">{name}</a>
           <div className="meta">
             <span>Quantity: {quantity}</span>
           </div>
