@@ -1,0 +1,32 @@
+.form-container {
+  margin: 25px auto;
+  padding: 10px 20px;
+  border: 1px solid rgb(165, 168, 170);
+
+}
+
+.ui.form {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.form-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ui.button {
+  display: block;
+  margin: 7px 3px 0 3px;
+}
+
+.err-label {
+  color: rgb(225, 81, 37) ;
+  display: block;
+  margin: 0 auto;
+}
+
+.ui.items>.item>.content>.header:not(.ui) {
+  font-size: 1.1em;
+}
